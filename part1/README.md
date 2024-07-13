@@ -492,7 +492,7 @@ Possible mitigations:
 
 Edit this README file, and make a change here, change status: `incomplete` to `complete`.
 
-`status: incomplete`
+`status: complete`
 
 
 Commit this change to the text file. You should now see the pre-commit hook kick in.
